@@ -43,7 +43,7 @@
 ## ⚙️ Instalação
 ```
 # Abra um terminal e copie este repositório com o comando
-$ git clone https://github.com/GBDev13/worldtrip.git
+$ git clone https://github.com/alfiadoDev/worldtrip.git
 ```
 
 ```
@@ -64,20 +64,9 @@ $ yarn start
 
 &nbsp;
 
-### 🔗 Link para o projeto online
-
-
-[WorldTrip](https://worldtrip.vercel.app/)
-
-&nbsp;
-
-## 📝 Licença
-
-Este projeto está licenciado sob a Licença MIT. Veja o arquivo de [LICENÇA](https://github.com/GBDev13/dashgo/blob/main/LICENSE) para detalhes.
-
 
 ---
 
-<p align="center">Feito com 💙 por Gabriel Borges</p>
+<p align="center">Feito com 💙 por Alfiado Constantino</p>
 
 
